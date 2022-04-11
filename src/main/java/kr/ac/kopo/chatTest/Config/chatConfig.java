@@ -1,4 +1,4 @@
-package kr.ac.kopo.chatTest.util;
+package kr.ac.kopo.chatTest.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
